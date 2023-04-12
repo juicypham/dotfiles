@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = monica.hq.pham@gmail.com
+	name = Monica Pham
